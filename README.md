@@ -1,0 +1,1 @@
+# spring-consuming-rest-service
