@@ -1,11 +1,10 @@
 # Spring Consuming Rest Service Guide
 
-## Description
-I have learned how to create a Spring consuming rest service from the official site.
+Create a Spring consuming rest service.
+
 https://spring.io/guides/gs/consuming-rest
 
-**Lesson learned:**
-- Create a simple consuming external API using Spring Boot.
+---
 
 ## Run the Service
 
